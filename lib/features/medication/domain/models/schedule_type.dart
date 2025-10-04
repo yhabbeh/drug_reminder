@@ -1,0 +1,1 @@
+enum ScheduleType { everyXHours, specificTimes }
